@@ -41,10 +41,16 @@
 
 ---
 
-### 📊 **My GitHub Stats**
+### 📊 **My GitHub Metrics**
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshaysrivastava2410&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaysrivastava2410&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshaysrivastava2410&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Akshay's GitHub Stats" height="170" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaysrivastava2410&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaysrivastava2410&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
