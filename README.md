@@ -13,9 +13,11 @@
 ---
 
 ### 🧐 **About Me**
-- 🎓 **2nd Year B.Tech Computer Science** student at **AKTU**.
+- 🎓 **3rd Year B.Tech Computer Science** student at **AKTU**.
 - 🔭 Currently mastering **Java Fundamentals** and **JavaScript**,
-- 🎯 Focused on securing a **Software Development Internship** by the 5th Semester.
+“Building AI-powered business solutions”
+“Full-stack web development”
+“Automation & API integrations”
 
 ---
 
