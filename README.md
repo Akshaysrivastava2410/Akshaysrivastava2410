@@ -6,7 +6,27 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Akshay+Srivastava;Java+Developer+in+Progress+%E2%98%95;Learning+Data+Structures+%26+Algorithms;Building+Full+Stack+Projects;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0# Hi there, I'm Akshay Srivastava 👋
+
+### 🚀 Python Full-Stack & Cloud Developer
+
+Passionate about building scalable web applications, modern APIs, and cloud-native solutions.
+
+---
+
+### 💻 Tech Stack
+
+- **Languages:** Python, JavaScript, TypeScript, SQL
+- **Backend:** FastAPI, Django, Flask, RESTful APIs, PostgreSQL, Redis
+- **Frontend:** React, Next.js, HTML5/CSS3, Tailwind CSS
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, GitHub Actions
+
+---
+
+### 🎯 Current Focus
+- 🐍 Building high-performance backend systems with Python & FastAPI.
+- ☁️ Designing scalable cloud applications & microservices on AWS.
+- ⚡ Developing modern, responsive full-stack web applications.0F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Akshay+Srivastava;Java+Developer+in+Progress+%E2%98%95;Learning+Data+Structures+%26+Algorithms;Building+Full+Stack+Projects;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
